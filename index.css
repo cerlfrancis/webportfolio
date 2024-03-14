@@ -1,0 +1,10 @@
+body {
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.bg-blue {
+    background-color: royalblue;
+}
